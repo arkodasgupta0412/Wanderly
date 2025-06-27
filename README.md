@@ -6,7 +6,6 @@
   <a href="https://arkodasgupta0412.github.io/Wanderly/"><strong>➥ GO LIVE </strong></a>
 
 </div>
-
 <br />
 
 ### Demo Screeshots
