@@ -3,7 +3,7 @@
 
   Wanderly is a travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="http://127.0.0.1:5500/wanderly/index.html#"><strong>➥ Live Demo</strong></a>
+  <a href="https://arkodasgupta0412.github.io/Wanderly/"><strong>➥ GO LIVE </strong></a>
 
 </div>
 
