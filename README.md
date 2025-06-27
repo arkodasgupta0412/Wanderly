@@ -1,8 +1,5 @@
 <div align="center">
-  <br />
-  <br />
-
-  <h2 align="center">Tourest - Travel website</h2>
+  <h1 align="center">Wanderly</h1>
 
   Wanderly is a travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
@@ -14,7 +11,7 @@
 
 ### Demo Screeshots
 
-![Tourest Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Wanderly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -24,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Tourest** locally, run this command on your git bash:
+To run **Wanderly** locally, run this command on your git bash:
 
 Linux and macOS:
 
