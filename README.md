@@ -11,7 +11,9 @@
 
 ### Demo Screeshots
 
-![Wanderly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+<p align="center">
+  <img src="./readme-images/desktop.png" alt="Wanderly Desktop Demo" title="Desktop Demo" />
+</p>
 
 ### Prerequisites
 
