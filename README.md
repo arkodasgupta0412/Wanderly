@@ -11,9 +11,7 @@
 
 ### Demo Screeshots
 
-![Wanderly Desktop Demo](./readme-images/pic1.png "Desktop Demo")
-![Wanderly Desktop Demo](./readme-images/pic2.png "Desktop Demo")
-![Wanderly Desktop Demo](./readme-images/pic3.png "Desktop Demo")
+![Wanderly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
